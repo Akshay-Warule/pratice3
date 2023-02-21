@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi i am swapnil
+=======
+hi i am akshay warule
+>>>>>>> e2e3e7ab1c1be56e19c3449019484c59705ad21a
